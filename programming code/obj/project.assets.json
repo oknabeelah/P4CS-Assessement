@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Github\\P4CS-Assessment\\programming code\\programming code.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Github\\P4CS-Assessement\\programming code\\programming code.csproj",
       "projectName": "programming code",
-      "projectPath": "C:\\Users\\Admin\\Desktop\\Github\\P4CS-Assessment\\programming code\\programming code.csproj",
+      "projectPath": "C:\\Users\\Admin\\Desktop\\Github\\P4CS-Assessement\\programming code\\programming code.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Desktop\\Github\\P4CS-Assessment\\programming code\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Desktop\\Github\\P4CS-Assessement\\programming code\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -66,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

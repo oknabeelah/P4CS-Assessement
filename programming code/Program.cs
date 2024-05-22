@@ -9,7 +9,11 @@ using System.ComponentModel.Design;
 using System.Diagnostics.Metrics;
 
 namespace p4cs
+<<<<<<< Updated upstream
 { //on the github website 
+=======
+{ //making sure the github works
+>>>>>>> Stashed changes
     class Coursework
     {
         public static void Main(string[] args)
